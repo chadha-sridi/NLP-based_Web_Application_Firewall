@@ -11,9 +11,9 @@ Consider a simple XSS payload:
 <p>However, Natural Language Processing (NLP) techniques have shown promise in resisting such obfuscation techniques. In this project, we leverage the power of NLP to enhance web security.</p>
 <h2>Features:</h2>
 <ul>
-  <li>Utilizes simple NLP techniques such as Bag of Words and TF-IDF.</li>
+  <li>Utilizes simple NLP techniques: <b>Bag of Words</b> and <b>TF-IDF</b>.</li>
   <li>Implements multiple machine learning algorithms including Multinomial Naive Bayes, Logistic Regression, Support Vector Machines (SVM), Random Forests, etc.</li>
-  <li> Includes code for utilizing fastText, a library for efficient learning of word representations and sentence classification.</li>
+  <li> Includes code for utilizing <b>fastText</b>, a library for efficient learning of word representations and sentence classification.</li>
 </ul>
 
 <h2>Dataset:</h2>
